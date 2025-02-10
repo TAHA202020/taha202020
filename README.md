@@ -25,6 +25,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Spcket.io](https://img.shields.io/badge/Socket%20io-%23010101?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=black)
+
 
 
 👩🏻‍💻 **Working on [Drawnly](https://github.com/TAHA202020/Drawly).** 
